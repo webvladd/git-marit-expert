@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37ebdd87.chunk.css",
+    "main.js": "/static/js/main.b5cb8ff9.chunk.js",
+    "main.js.map": "/static/js/main.b5cb8ff9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3e1c2423.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3e1c2423.js.map",
+    "static/js/2.cc6b24da.chunk.js": "/static/js/2.cc6b24da.chunk.js",
+    "static/js/2.cc6b24da.chunk.js.map": "/static/js/2.cc6b24da.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.37ebdd87.chunk.css.map": "/static/css/main.37ebdd87.chunk.css.map",
+    "static/js/2.cc6b24da.chunk.js.LICENSE.txt": "/static/js/2.cc6b24da.chunk.js.LICENSE.txt",
+    "static/media/Aragorn.4e3467a0.png": "/static/media/Aragorn.4e3467a0.png",
+    "static/media/Frodo.dbd4f5dd.png": "/static/media/Frodo.dbd4f5dd.png",
+    "static/media/Gimli.69c6417d.png": "/static/media/Gimli.69c6417d.png",
+    "static/media/Legolas.6f9a6621.png": "/static/media/Legolas.6f9a6621.png",
+    "static/media/HomePage.module.scss": "/static/media/background.66d1d262.jpg",
+    "static/media/delete-icon.a8fd8cf2.svg": "/static/media/delete-icon.a8fd8cf2.svg",
+    "static/media/feather-pen-icon.e7491830.svg": "/static/media/feather-pen-icon.e7491830.svg",
+    "static/media/ListPersonages.module.scss": "/static/media/garamond-bold.d8dcb959.woff",
+    "static/media/plus-icon.7dc9706b.svg": "/static/media/plus-icon.7dc9706b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e1c2423.js",
+    "static/js/2.cc6b24da.chunk.js",
+    "static/css/main.37ebdd87.chunk.css",
+    "static/js/main.b5cb8ff9.chunk.js"
+  ]
+}
